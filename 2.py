@@ -17,7 +17,7 @@ USER_CONFIG = {
     "email": "michael.zhang73@outlook.com",
     "resume_link": "https://drive.google.com/file/d/1SizIELaIiRTT_Jl53YQdhh8K0QyOYTFN/view?usp=drive_link",
     "repository_link": "https://github.com/michaelzhang73",
-    "action_run_link": "https://github.com/your-user/your-repository/actions/runs/1234567890",
+    "action_run_link": "https://github.com/michaelzhang73/bittensor_fun/actions/runs/23268530206",
 }
 
 
